@@ -1,0 +1,1618 @@
+{
+  "dataset_image_27": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            218,
+            51
+          ],
+          [
+            533,
+            51
+          ],
+          [
+            533,
+            99
+          ],
+          [
+            218,
+            99
+          ]
+        ],
+        "text": "mothercare",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            171,
+            136
+          ],
+          [
+            406,
+            136
+          ],
+          [
+            406,
+            191
+          ],
+          [
+            171,
+            191
+          ]
+        ],
+        "text": "lesha",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            259,
+            208
+          ],
+          [
+            341,
+            208
+          ],
+          [
+            341,
+            229
+          ],
+          [
+            259,
+            229
+          ]
+        ],
+        "text": "silver",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            224,
+            401
+          ],
+          [
+            265,
+            401
+          ],
+          [
+            265,
+            415
+          ],
+          [
+            224,
+            415
+          ]
+        ],
+        "text": "must",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "coordinates": [
+          [
+            263,
+            402
+          ],
+          [
+            304,
+            402
+          ],
+          [
+            304,
+            416
+          ],
+          [
+            263,
+            416
+          ]
+        ],
+        "text": "have",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "coordinates": [
+          [
+            169,
+            426
+          ],
+          [
+            286,
+            426
+          ],
+          [
+            286,
+            448
+          ],
+          [
+            169,
+            448
+          ]
+        ],
+        "text": "sterling",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "coordinates": [
+          [
+            289,
+            428
+          ],
+          [
+            375,
+            428
+          ],
+          [
+            375,
+            450
+          ],
+          [
+            289,
+            450
+          ]
+        ],
+        "text": "silver",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "coordinates": [
+          [
+            243,
+            656
+          ],
+          [
+            326,
+            656
+          ],
+          [
+            326,
+            676
+          ],
+          [
+            243,
+            676
+          ]
+        ],
+        "text": "silver",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "coordinates": [
+          [
+            494,
+            199
+          ],
+          [
+            514,
+            199
+          ],
+          [
+            514,
+            212
+          ],
+          [
+            494,
+            212
+          ]
+        ],
+        "text": "buy",
+        "script_language": "ENGLISH"
+      },
+      "polygon_9": {
+        "coordinates": [
+          [
+            504,
+            212
+          ],
+          [
+            526,
+            212
+          ],
+          [
+            526,
+            224
+          ],
+          [
+            504,
+            224
+          ]
+        ],
+        "text": "get",
+        "script_language": "ENGLISH"
+      },
+      "polygon_10": {
+        "coordinates": [
+          [
+            489,
+            221
+          ],
+          [
+            525,
+            221
+          ],
+          [
+            525,
+            235
+          ],
+          [
+            489,
+            235
+          ]
+        ],
+        "text": " free",
+        "script_language": "ENGLISH"
+      },
+      "polygon_11": {
+        "coordinates": [
+          [
+            62,
+            65
+          ],
+          [
+            121,
+            65
+          ],
+          [
+            121,
+            87
+          ],
+          [
+            62,
+            87
+          ]
+        ],
+        "text": "pgmi",
+        "script_language": "ENGLISH"
+      },
+      "polygon_12": {
+        "coordinates": [
+          [
+            32,
+            125
+          ],
+          [
+            84,
+            125
+          ],
+          [
+            84,
+            152
+          ],
+          [
+            32,
+            152
+          ]
+        ],
+        "text": "sips",
+        "script_language": "ENGLISH"
+      },
+      "polygon_13": {
+        "coordinates": [
+          [
+            88,
+            125
+          ],
+          [
+            148,
+            125
+          ],
+          [
+            148,
+            153
+          ],
+          [
+            88,
+            153
+          ]
+        ],
+        "text": "make",
+        "script_language": "ENGLISH"
+      },
+      "polygon_14": {
+        "coordinates": [
+          [
+            32,
+            153
+          ],
+          [
+            136,
+            153
+          ],
+          [
+            136,
+            184
+          ],
+          [
+            32,
+            184
+          ]
+        ],
+        "text": "investing",
+        "script_language": "ENGLISH"
+      },
+      "polygon_15": {
+        "coordinates": [
+          [
+            138,
+            154
+          ],
+          [
+            159,
+            154
+          ],
+          [
+            159,
+            181
+          ],
+          [
+            138,
+            181
+          ]
+        ],
+        "text": "a",
+        "script_language": "ENGLISH"
+      },
+      "polygon_16": {
+        "coordinates": [
+          [
+            160,
+            154
+          ],
+          [
+            227,
+            154
+          ],
+          [
+            227,
+            182
+          ],
+          [
+            160,
+            182
+          ]
+        ],
+        "text": "habit.",
+        "script_language": "ENGLISH"
+      },
+      "polygon_17": {
+        "coordinates": [
+          [
+            153,
+            190
+          ],
+          [
+            192,
+            190
+          ],
+          [
+            192,
+            207
+          ],
+          [
+            153,
+            207
+          ]
+        ],
+        "text": "goals",
+        "script_language": "ENGLISH"
+      },
+      "polygon_18": {
+        "coordinates": [
+          [
+            191,
+            188
+          ],
+          [
+            221,
+            188
+          ],
+          [
+            221,
+            207
+          ],
+          [
+            191,
+            207
+          ]
+        ],
+        "text": "with",
+        "script_language": "ENGLISH"
+      },
+      "polygon_19": {
+        "coordinates": [
+          [
+            157,
+            299
+          ],
+          [
+            312,
+            299
+          ],
+          [
+            312,
+            343
+          ],
+          [
+            157,
+            343
+          ]
+        ],
+        "text": "brown",
+        "script_language": "ENGLISH"
+      },
+      "polygon_20": {
+        "coordinates": [
+          [
+            322,
+            302
+          ],
+          [
+            467,
+            302
+          ],
+          [
+            467,
+            344
+          ],
+          [
+            322,
+            344
+          ]
+        ],
+        "text": "sugar",
+        "script_language": "ENGLISH"
+      },
+      "polygon_21": {
+        "coordinates": [
+          [
+            291,
+            193
+          ],
+          [
+            464,
+            193
+          ],
+          [
+            464,
+            230
+          ],
+          [
+            291,
+            230
+          ]
+        ],
+        "text": "lodha",
+        "script_language": "ENGLISH"
+      },
+      "polygon_22": {
+        "coordinates": [
+          [
+            470,
+            193
+          ],
+          [
+            703,
+            193
+          ],
+          [
+            703,
+            228
+          ],
+          [
+            470,
+            228
+          ]
+        ],
+        "text": "costiera",
+        "script_language": "ENGLISH"
+      },
+      "polygon_23": {
+        "coordinates": [
+          [
+            430,
+            270
+          ],
+          [
+            575,
+            270
+          ],
+          [
+            575,
+            312
+          ],
+          [
+            430,
+            312
+          ]
+        ],
+        "text": "rehab",
+        "script_language": "ENGLISH"
+      },
+      "polygon_24": {
+        "coordinates": [
+          [
+            315,
+            318
+          ],
+          [
+            406,
+            318
+          ],
+          [
+            406,
+            347
+          ],
+          [
+            315,
+            347
+          ]
+        ],
+        "text": "rehab",
+        "script_language": "ENGLISH"
+      },
+      "polygon_25": {
+        "coordinates": [
+          [
+            410,
+            316
+          ],
+          [
+            580,
+            316
+          ],
+          [
+            580,
+            344
+          ],
+          [
+            410,
+            344
+          ]
+        ],
+        "text": "consultants",
+        "script_language": "ENGLISH"
+      },
+      "polygon_26": {
+        "coordinates": [
+          [
+            584,
+            313
+          ],
+          [
+            633,
+            313
+          ],
+          [
+            633,
+            338
+          ],
+          [
+            584,
+            338
+          ]
+        ],
+        "text": "pvt",
+        "script_language": "ENGLISH"
+      },
+      "polygon_27": {
+        "coordinates": [
+          [
+            637,
+            313
+          ],
+          [
+            682,
+            313
+          ],
+          [
+            682,
+            339
+          ],
+          [
+            637,
+            339
+          ]
+        ],
+        "text": "ltd",
+        "script_language": "ENGLISH"
+      },
+      "polygon_28": {
+        "coordinates": [
+          [
+            322,
+            358
+          ],
+          [
+            377,
+            358
+          ],
+          [
+            377,
+            382
+          ],
+          [
+            322,
+            382
+          ]
+        ],
+        "text": "email",
+        "script_language": "ENGLISH"
+      },
+      "polygon_29": {
+        "coordinates": [
+          [
+            353,
+            414
+          ],
+          [
+            401,
+            414
+          ],
+          [
+            401,
+            438
+          ],
+          [
+            353,
+            438
+          ]
+        ],
+        "text": "time",
+        "script_language": "ENGLISH"
+      },
+      "polygon_30": {
+        "coordinates": [
+          [
+            401,
+            414
+          ],
+          [
+            448,
+            414
+          ],
+          [
+            448,
+            436
+          ],
+          [
+            401,
+            436
+          ]
+        ],
+        "text": "will",
+        "script_language": "ENGLISH"
+      },
+      "polygon_31": {
+        "coordinates": [
+          [
+            449,
+            414
+          ],
+          [
+            499,
+            414
+          ],
+          [
+            499,
+            436
+          ],
+          [
+            449,
+            436
+          ]
+        ],
+        "text": "tell",
+        "script_language": "ENGLISH"
+      },
+      "polygon_32": {
+        "coordinates": [
+          [
+            501,
+            413
+          ],
+          [
+            541,
+            413
+          ],
+          [
+            541,
+            432
+          ],
+          [
+            501,
+            432
+          ]
+        ],
+        "text": "the",
+        "script_language": "ENGLISH"
+      },
+      "polygon_33": {
+        "coordinates": [
+          [
+            541,
+            411
+          ],
+          [
+            658,
+            411
+          ],
+          [
+            658,
+            432
+          ],
+          [
+            541,
+            432
+          ]
+        ],
+        "text": "difference",
+        "script_language": "ENGLISH"
+      },
+      "polygon_34": {
+        "coordinates": [
+          [
+            309,
+            121
+          ],
+          [
+            388,
+            121
+          ],
+          [
+            388,
+            149
+          ],
+          [
+            309,
+            149
+          ]
+        ],
+        "text": "repair",
+        "script_language": "ENGLISH"
+      },
+      "polygon_35": {
+        "coordinates": [
+          [
+            393,
+            119
+          ],
+          [
+            515,
+            119
+          ],
+          [
+            515,
+            146
+          ],
+          [
+            393,
+            146
+          ]
+        ],
+        "text": "restoration",
+        "script_language": "ENGLISH"
+      },
+      "polygon_36": {
+        "coordinates": [
+          [
+            520,
+            118
+          ],
+          [
+            670,
+            118
+          ],
+          [
+            670,
+            148
+          ],
+          [
+            520,
+            148
+          ]
+        ],
+        "text": "waterproofing",
+        "script_language": ""
+      },
+      "polygon_37": {
+        "coordinates": [
+          [
+            345,
+            151
+          ],
+          [
+            451,
+            151
+          ],
+          [
+            451,
+            180
+          ],
+          [
+            345,
+            180
+          ]
+        ],
+        "text": "plumbing",
+        "script_language": "ENGLISH"
+      },
+      "polygon_38": {
+        "coordinates": [
+          [
+            468,
+            151
+          ],
+          [
+            562,
+            151
+          ],
+          [
+            562,
+            178
+          ],
+          [
+            468,
+            178
+          ]
+        ],
+        "text": "painting",
+        "script_language": "ENGLISH"
+      },
+      "polygon_39": {
+        "coordinates": [
+          [
+            559,
+            149
+          ],
+          [
+            625,
+            149
+          ],
+          [
+            625,
+            173
+          ],
+          [
+            559,
+            173
+          ]
+        ],
+        "text": "works",
+        "script_language": "ENGLISH"
+      },
+      "polygon_40": {
+        "coordinates": [
+          [
+            626,
+            149
+          ],
+          [
+            650,
+            149
+          ],
+          [
+            650,
+            173
+          ],
+          [
+            626,
+            173
+          ]
+        ],
+        "text": "of",
+        "script_language": "ENGLISH"
+      },
+      "polygon_41": {
+        "coordinates": [
+          [
+            662,
+            431
+          ],
+          [
+            313,
+            472
+          ],
+          [
+            320,
+            584
+          ],
+          [
+            675,
+            512
+          ],
+          [
+            662,
+            431
+          ]
+        ],
+        "text": "painterior",
+        "script_language": "ENGLISH"
+      },
+      "polygon_42": {
+        "coordinates": [
+          [
+            371,
+            568
+          ],
+          [
+            906,
+            568
+          ],
+          [
+            906,
+            746
+          ],
+          [
+            371,
+            746
+          ]
+        ],
+        "text": "liberty",
+        "script_language": "ENGLISH"
+      },
+      "polygon_43": {
+        "coordinates": [
+          [
+            877,
+            417
+          ],
+          [
+            955,
+            417
+          ],
+          [
+            955,
+            476
+          ],
+          [
+            877,
+            476
+          ]
+        ],
+        "text": "libert",
+        "script_language": "ENGLISH"
+      },
+      "polygon_44": {
+        "coordinates": [
+          [
+            215,
+            538
+          ],
+          [
+            317,
+            538
+          ],
+          [
+            317,
+            572
+          ],
+          [
+            215,
+            572
+          ]
+        ],
+        "text": "liberty",
+        "script_language": "ENGLISH"
+      },
+      "polygon_45": {
+        "coordinates": [
+          [
+            193,
+            577
+          ],
+          [
+            338,
+            577
+          ],
+          [
+            338,
+            648
+          ],
+          [
+            193,
+            648
+          ]
+        ],
+        "text": "exclusive",
+        "script_language": "ENGLISH"
+      },
+      "polygon_46": {
+        "coordinates": [
+          [
+            391,
+            93
+          ],
+          [
+            502,
+            93
+          ],
+          [
+            502,
+            168
+          ],
+          [
+            391,
+            168
+          ]
+        ],
+        "text": "bishnoi",
+        "script_language": "HINDI"
+      },
+      "polygon_47": {
+        "coordinates": [
+          [
+            505,
+            115
+          ],
+          [
+            607,
+            115
+          ],
+          [
+            607,
+            185
+          ],
+          [
+            505,
+            185
+          ]
+        ],
+        "text": "building",
+        "script_language": "HINDI"
+      },
+      "polygon_48": {
+        "coordinates": [
+          [
+            206,
+            675
+          ],
+          [
+            264,
+            648
+          ],
+          [
+            328,
+            677
+          ],
+          [
+            314,
+            699
+          ],
+          [
+            264,
+            673
+          ],
+          [
+            220,
+            695
+          ],
+          [
+            205,
+            677
+          ]
+        ],
+        "text": "showroom",
+        "script_language": "ENGLISH"
+      },
+      "polygon_49": {
+        "coordinates": [
+          [
+            148,
+            27
+          ],
+          [
+            197,
+            27
+          ],
+          [
+            197,
+            61
+          ],
+          [
+            148,
+            61
+          ]
+        ],
+        "text": "jio",
+        "script_language": "ENGLISH"
+      },
+      "polygon_50": {
+        "coordinates": [
+          [
+            208,
+            33
+          ],
+          [
+            256,
+            33
+          ],
+          [
+            256,
+            50
+          ],
+          [
+            208,
+            50
+          ]
+        ],
+        "text": "digita",
+        "script_language": "ENGLISH"
+      },
+      "polygon_51": {
+        "coordinates": [
+          [
+            206,
+            48
+          ],
+          [
+            242,
+            48
+          ],
+          [
+            242,
+            62
+          ],
+          [
+            206,
+            62
+          ]
+        ],
+        "text": "life",
+        "script_language": "ENGLISH"
+      },
+      "polygon_52": {
+        "coordinates": [
+          [
+            27,
+            94
+          ],
+          [
+            111,
+            94
+          ],
+          [
+            111,
+            123
+          ],
+          [
+            27,
+            123
+          ]
+        ],
+        "text": "iphone",
+        "script_language": "ENGLISH"
+      },
+      "polygon_53": {
+        "coordinates": [
+          [
+            134,
+            104
+          ],
+          [
+            167,
+            104
+          ],
+          [
+            167,
+            126
+          ],
+          [
+            134,
+            126
+          ]
+        ],
+        "text": "on",
+        "script_language": "ENGLISH"
+      },
+      "polygon_54": {
+        "coordinates": [
+          [
+            172,
+            104
+          ],
+          [
+            212,
+            104
+          ],
+          [
+            212,
+            128
+          ],
+          [
+            172,
+            128
+          ]
+        ],
+        "text": "the",
+        "script_language": "ENGLISH"
+      },
+      "polygon_55": {
+        "coordinates": [
+          [
+            216,
+            109
+          ],
+          [
+            305,
+            109
+          ],
+          [
+            305,
+            134
+          ],
+          [
+            216,
+            134
+          ]
+        ],
+        "text": "world's",
+        "script_language": "ENGLISH"
+      },
+      "polygon_56": {
+        "coordinates": [
+          [
+            44,
+            121
+          ],
+          [
+            128,
+            121
+          ],
+          [
+            128,
+            152
+          ],
+          [
+            44,
+            152
+          ]
+        ],
+        "text": "largest",
+        "script_language": "ENGLISH"
+      },
+      "polygon_57": {
+        "coordinates": [
+          [
+            132,
+            127
+          ],
+          [
+            185,
+            127
+          ],
+          [
+            185,
+            153
+          ],
+          [
+            132,
+            153
+          ]
+        ],
+        "text": "data",
+        "script_language": "ENGLISH"
+      },
+      "polygon_58": {
+        "coordinates": [
+          [
+            192,
+            134
+          ],
+          [
+            293,
+            134
+          ],
+          [
+            293,
+            162
+          ],
+          [
+            192,
+            162
+          ]
+        ],
+        "text": "network",
+        "script_language": "ENGLISH"
+      },
+      "polygon_59": {
+        "coordinates": [
+          [
+            68,
+            164
+          ],
+          [
+            108,
+            164
+          ],
+          [
+            108,
+            188
+          ],
+          [
+            68,
+            188
+          ]
+        ],
+        "text": "get",
+        "script_language": "ENGLISH"
+      },
+      "polygon_60": {
+        "coordinates": [
+          [
+            166,
+            169
+          ],
+          [
+            264,
+            169
+          ],
+          [
+            264,
+            202
+          ],
+          [
+            166,
+            202
+          ]
+        ],
+        "text": "buyback",
+        "script_language": "ENGLISH"
+      },
+      "polygon_61": {
+        "coordinates": [
+          [
+            33,
+            200
+          ],
+          [
+            51,
+            200
+          ],
+          [
+            51,
+            214
+          ],
+          [
+            33,
+            214
+          ]
+        ],
+        "text": "jio",
+        "script_language": "ENGLISH"
+      },
+      "polygon_62": {
+        "coordinates": [
+          [
+            60,
+            205
+          ],
+          [
+            79,
+            205
+          ],
+          [
+            79,
+            217
+          ],
+          [
+            60,
+            217
+          ]
+        ],
+        "text": "om",
+        "script_language": "ENGLISH"
+      },
+      "polygon_63": {
+        "coordinates": [
+          [
+            93,
+            205
+          ],
+          [
+            104,
+            205
+          ],
+          [
+            104,
+            218
+          ],
+          [
+            93,
+            218
+          ]
+        ],
+        "text": "io",
+        "script_language": "ENGLISH"
+      },
+      "polygon_64": {
+        "coordinates": [
+          [
+            107,
+            205
+          ],
+          [
+            138,
+            205
+          ],
+          [
+            138,
+            220
+          ],
+          [
+            107,
+            220
+          ]
+        ],
+        "text": "store",
+        "script_language": "ENGLISH"
+      },
+      "polygon_65": {
+        "coordinates": [
+          [
+            146,
+            207
+          ],
+          [
+            197,
+            207
+          ],
+          [
+            197,
+            225
+          ],
+          [
+            146,
+            225
+          ]
+        ],
+        "text": "reliance",
+        "script_language": "ENGLISH"
+      },
+      "polygon_66": {
+        "coordinates": [
+          [
+            197,
+            209
+          ],
+          [
+            235,
+            209
+          ],
+          [
+            235,
+            228
+          ],
+          [
+            197,
+            228
+          ]
+        ],
+        "text": "digital",
+        "script_language": "ENGLISH"
+      },
+      "polygon_67": {
+        "coordinates": [
+          [
+            242,
+            215
+          ],
+          [
+            298,
+            215
+          ],
+          [
+            298,
+            231
+          ],
+          [
+            242,
+            231
+          ]
+        ],
+        "text": "amazon.in",
+        "script_language": "ENGLISH"
+      },
+      "polygon_68": {
+        "coordinates": [
+          [
+            159,
+            60
+          ],
+          [
+            259,
+            60
+          ],
+          [
+            259,
+            121
+          ],
+          [
+            159,
+            121
+          ]
+        ],
+        "text": "the",
+        "script_language": "English"
+      },
+      "polygon_69": {
+        "coordinates": [
+          [
+            264,
+            52
+          ],
+          [
+            419,
+            52
+          ],
+          [
+            419,
+            129
+          ],
+          [
+            264,
+            129
+          ]
+        ],
+        "text": "shop",
+        "script_language": "English"
+      },
+      "polygon_70": {
+        "coordinates": [
+          [
+            478,
+            68
+          ],
+          [
+            1126,
+            286
+          ],
+          [
+            1140,
+            561
+          ],
+          [
+            441,
+            443
+          ],
+          [
+            472,
+            70
+          ]
+        ],
+        "text": "foot",
+        "script_language": "ENGLISH"
+      },
+      "polygon_71": {
+        "coordinates": [
+          [
+            1162,
+            295
+          ],
+          [
+            1698,
+            464
+          ],
+          [
+            1698,
+            664
+          ],
+          [
+            1156,
+            570
+          ],
+          [
+            1164,
+            297
+          ]
+        ],
+        "text": "locker",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "",
+    "image_name": "image27",
+    "split": "train",
+    "folderName": "dataset"
+  }
+}

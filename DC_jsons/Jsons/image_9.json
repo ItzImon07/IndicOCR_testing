@@ -1,0 +1,114 @@
+{
+  "dataset_image_9": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            275,
+            99
+          ],
+          [
+            391,
+            69
+          ],
+          [
+            390,
+            14
+          ],
+          [
+            276,
+            54
+          ],
+          [
+            275,
+            96
+          ]
+        ],
+        "text": "kfc",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            7,
+            287
+          ],
+          [
+            81,
+            277
+          ],
+          [
+            82,
+            310
+          ],
+          [
+            9,
+            318
+          ],
+          [
+            8,
+            287
+          ]
+        ],
+        "text": "wine",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            92,
+            278
+          ],
+          [
+            180,
+            263
+          ],
+          [
+            181,
+            295
+          ],
+          [
+            91,
+            307
+          ],
+          [
+            92,
+            278
+          ]
+        ],
+        "text": "shop",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            381,
+            317
+          ],
+          [
+            358,
+            317
+          ],
+          [
+            358,
+            330
+          ],
+          [
+            381,
+            329
+          ],
+          [
+            381,
+            319
+          ]
+        ],
+        "text": "epic\n",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "",
+    "image_name": "image9",
+    "split": "train",
+    "folderName": "dataset"
+  }
+}

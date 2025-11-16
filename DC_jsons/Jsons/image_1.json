@@ -1,0 +1,114 @@
+{
+  "dataset_image_1": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            128,
+            71
+          ],
+          [
+            215,
+            74
+          ],
+          [
+            215,
+            113
+          ],
+          [
+            129,
+            114
+          ],
+          [
+            129,
+            71
+          ]
+        ],
+        "text": "svc",
+        "script_language": "English"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            224,
+            74
+          ],
+          [
+            520,
+            85
+          ],
+          [
+            520,
+            123
+          ],
+          [
+            223,
+            115
+          ],
+          [
+            224,
+            75
+          ]
+        ],
+        "text": "co-operative",
+        "script_language": "English"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            254,
+            120
+          ],
+          [
+            339,
+            121
+          ],
+          [
+            339,
+            162
+          ],
+          [
+            253,
+            159
+          ],
+          [
+            255,
+            120
+          ]
+        ],
+        "text": "ltd.",
+        "script_language": "English"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            128,
+            158
+          ],
+          [
+            245,
+            160
+          ],
+          [
+            245,
+            118
+          ],
+          [
+            128,
+            117
+          ],
+          [
+            129,
+            159
+          ]
+        ],
+        "text": "bank",
+        "script_language": "English"
+      }
+    },
+    "url": "",
+    "image_name": "image1",
+    "split": "train",
+    "folderName": "dataset"
+  }
+}

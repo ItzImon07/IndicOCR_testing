@@ -1,0 +1,292 @@
+{
+  "dataset_image_4": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            384,
+            128
+          ],
+          [
+            575,
+            138
+          ],
+          [
+            576,
+            200
+          ],
+          [
+            382,
+            191
+          ],
+          [
+            385,
+            129
+          ]
+        ],
+        "text": "soni",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            385,
+            255
+          ],
+          [
+            999,
+            279
+          ],
+          [
+            1000,
+            225
+          ],
+          [
+            385,
+            195
+          ],
+          [
+            385,
+            255
+          ]
+        ],
+        "text": "navinchandra",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            385,
+            316
+          ],
+          [
+            848,
+            331
+          ],
+          [
+            849,
+            274
+          ],
+          [
+            386,
+            255
+          ],
+          [
+            385,
+            315
+          ]
+        ],
+        "text": "shantilal",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            505,
+            322
+          ],
+          [
+            729,
+            329
+          ],
+          [
+            727,
+            367
+          ],
+          [
+            504,
+            363
+          ],
+          [
+            505,
+            323
+          ]
+        ],
+        "text": "jewellers",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "coordinates": [
+          [
+            243,
+            71
+          ],
+          [
+            301,
+            70
+          ],
+          [
+            301,
+            87
+          ],
+          [
+            375,
+            87
+          ],
+          [
+            374,
+            119
+          ],
+          [
+            230,
+            122
+          ],
+          [
+            241,
+            71
+          ]
+        ],
+        "text": "momos",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "coordinates": [
+          [
+            431,
+            75
+          ],
+          [
+            483,
+            72
+          ],
+          [
+            483,
+            83
+          ],
+          [
+            618,
+            81
+          ],
+          [
+            619,
+            129
+          ],
+          [
+            429,
+            129
+          ],
+          [
+            431,
+            77
+          ]
+        ],
+        "text": "panipuri",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "coordinates": [
+          [
+            168,
+            419
+          ],
+          [
+            241,
+            419
+          ],
+          [
+            241,
+            444
+          ],
+          [
+            168,
+            444
+          ]
+        ],
+        "text": "momos",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "coordinates": [
+          [
+            318,
+            421
+          ],
+          [
+            414,
+            421
+          ],
+          [
+            414,
+            449
+          ],
+          [
+            318,
+            449
+          ]
+        ],
+        "text": "panipuri",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "coordinates": [
+          [
+            459,
+            425
+          ],
+          [
+            600,
+            425
+          ],
+          [
+            600,
+            454
+          ],
+          [
+            459,
+            454
+          ]
+        ],
+        "text": "french fries",
+        "script_language": "ENGLISH"
+      },
+      "polygon_9": {
+        "coordinates": [
+          [
+            442,
+            480
+          ],
+          [
+            607,
+            480
+          ],
+          [
+            607,
+            529
+          ],
+          [
+            442,
+            529
+          ]
+        ],
+        "text": "panipuri",
+        "script_language": "ENGLISH"
+      },
+      "polygon_10": {
+        "coordinates": [
+          [
+            125,
+            67
+          ],
+          [
+            207,
+            67
+          ],
+          [
+            207,
+            124
+          ],
+          [
+            125,
+            124
+          ]
+        ],
+        "text": "cg",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "",
+    "image_name": "image4",
+    "split": "train",
+    "folderName": "dataset"
+  }
+}

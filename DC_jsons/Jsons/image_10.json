@@ -1,0 +1,120 @@
+{
+  "dataset_image_10": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            33,
+            169
+          ],
+          [
+            126,
+            169
+          ],
+          [
+            126,
+            201
+          ],
+          [
+            33,
+            201
+          ]
+        ],
+        "text": "bigger!",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            14,
+            138
+          ],
+          [
+            97,
+            138
+          ],
+          [
+            97,
+            169
+          ],
+          [
+            14,
+            169
+          ]
+        ],
+        "text": "greener",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            102,
+            133
+          ],
+          [
+            147,
+            133
+          ],
+          [
+            147,
+            159
+          ],
+          [
+            102,
+            159
+          ]
+        ],
+        "text": "and",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            25,
+            107
+          ],
+          [
+            75,
+            107
+          ],
+          [
+            75,
+            134
+          ],
+          [
+            25,
+            134
+          ]
+        ],
+        "text": "now",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "coordinates": [
+          [
+            77,
+            99
+          ],
+          [
+            134,
+            99
+          ],
+          [
+            134,
+            130
+          ],
+          [
+            77,
+            130
+          ]
+        ],
+        "text": "taller",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "",
+    "image_name": "image10",
+    "split": "train",
+    "folderName": "dataset"
+  }
+}

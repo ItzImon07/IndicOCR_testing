@@ -1,0 +1,114 @@
+{
+  "dataset_image_3": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            384,
+            128
+          ],
+          [
+            575,
+            138
+          ],
+          [
+            576,
+            200
+          ],
+          [
+            382,
+            191
+          ],
+          [
+            385,
+            129
+          ]
+        ],
+        "text": "soni",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            385,
+            255
+          ],
+          [
+            999,
+            279
+          ],
+          [
+            1000,
+            225
+          ],
+          [
+            385,
+            195
+          ],
+          [
+            385,
+            255
+          ]
+        ],
+        "text": "navinchandra",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            385,
+            316
+          ],
+          [
+            848,
+            331
+          ],
+          [
+            849,
+            274
+          ],
+          [
+            386,
+            255
+          ],
+          [
+            385,
+            315
+          ]
+        ],
+        "text": "shantilal",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            505,
+            322
+          ],
+          [
+            729,
+            329
+          ],
+          [
+            727,
+            367
+          ],
+          [
+            504,
+            363
+          ],
+          [
+            505,
+            323
+          ]
+        ],
+        "text": "jewellers",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "",
+    "image_name": "image3",
+    "split": "train",
+    "folderName": "dataset"
+  }
+}

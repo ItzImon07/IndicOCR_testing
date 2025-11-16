@@ -1,0 +1,252 @@
+{
+  "dataset_image_21": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            218,
+            51
+          ],
+          [
+            533,
+            51
+          ],
+          [
+            533,
+            99
+          ],
+          [
+            218,
+            99
+          ]
+        ],
+        "text": "mothercare",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            171,
+            136
+          ],
+          [
+            406,
+            136
+          ],
+          [
+            406,
+            191
+          ],
+          [
+            171,
+            191
+          ]
+        ],
+        "text": "lesha",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            259,
+            208
+          ],
+          [
+            341,
+            208
+          ],
+          [
+            341,
+            229
+          ],
+          [
+            259,
+            229
+          ]
+        ],
+        "text": "silver",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            224,
+            401
+          ],
+          [
+            265,
+            401
+          ],
+          [
+            265,
+            415
+          ],
+          [
+            224,
+            415
+          ]
+        ],
+        "text": "must",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "coordinates": [
+          [
+            263,
+            402
+          ],
+          [
+            304,
+            402
+          ],
+          [
+            304,
+            416
+          ],
+          [
+            263,
+            416
+          ]
+        ],
+        "text": "have",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "coordinates": [
+          [
+            169,
+            426
+          ],
+          [
+            286,
+            426
+          ],
+          [
+            286,
+            448
+          ],
+          [
+            169,
+            448
+          ]
+        ],
+        "text": "sterling",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "coordinates": [
+          [
+            289,
+            428
+          ],
+          [
+            375,
+            428
+          ],
+          [
+            375,
+            450
+          ],
+          [
+            289,
+            450
+          ]
+        ],
+        "text": "silver",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "coordinates": [
+          [
+            243,
+            656
+          ],
+          [
+            326,
+            656
+          ],
+          [
+            326,
+            676
+          ],
+          [
+            243,
+            676
+          ]
+        ],
+        "text": "silver",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "coordinates": [
+          [
+            494,
+            199
+          ],
+          [
+            514,
+            199
+          ],
+          [
+            514,
+            212
+          ],
+          [
+            494,
+            212
+          ]
+        ],
+        "text": "buy",
+        "script_language": "ENGLISH"
+      },
+      "polygon_9": {
+        "coordinates": [
+          [
+            504,
+            212
+          ],
+          [
+            526,
+            212
+          ],
+          [
+            526,
+            224
+          ],
+          [
+            504,
+            224
+          ]
+        ],
+        "text": "get",
+        "script_language": "ENGLISH"
+      },
+      "polygon_10": {
+        "coordinates": [
+          [
+            489,
+            221
+          ],
+          [
+            525,
+            221
+          ],
+          [
+            525,
+            235
+          ],
+          [
+            489,
+            235
+          ]
+        ],
+        "text": " free",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "",
+    "image_name": "image21",
+    "split": "train",
+    "folderName": "dataset"
+  }
+}

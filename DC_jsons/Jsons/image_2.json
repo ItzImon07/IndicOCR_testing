@@ -1,0 +1,378 @@
+{
+  "dataset_image_2": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            128,
+            71
+          ],
+          [
+            215,
+            74
+          ],
+          [
+            215,
+            113
+          ],
+          [
+            129,
+            114
+          ],
+          [
+            129,
+            71
+          ]
+        ],
+        "text": "svc",
+        "script_language": "English"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            224,
+            74
+          ],
+          [
+            520,
+            85
+          ],
+          [
+            520,
+            123
+          ],
+          [
+            223,
+            115
+          ],
+          [
+            224,
+            75
+          ]
+        ],
+        "text": "co-operative",
+        "script_language": "English"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            254,
+            120
+          ],
+          [
+            339,
+            121
+          ],
+          [
+            339,
+            162
+          ],
+          [
+            253,
+            159
+          ],
+          [
+            255,
+            120
+          ]
+        ],
+        "text": "ltd.",
+        "script_language": "English"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            128,
+            158
+          ],
+          [
+            245,
+            160
+          ],
+          [
+            245,
+            118
+          ],
+          [
+            128,
+            117
+          ],
+          [
+            129,
+            159
+          ]
+        ],
+        "text": "bank",
+        "script_language": "English"
+      },
+      "polygon_4": {
+        "coordinates": [
+          [
+            175,
+            343
+          ],
+          [
+            283,
+            343
+          ],
+          [
+            283,
+            370
+          ],
+          [
+            175,
+            370
+          ]
+        ],
+        "text": "cera",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "coordinates": [
+          [
+            307,
+            131
+          ],
+          [
+            406,
+            131
+          ],
+          [
+            406,
+            157
+          ],
+          [
+            307,
+            157
+          ]
+        ],
+        "text": "senator",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "coordinates": [
+          [
+            377,
+            157
+          ],
+          [
+            406,
+            157
+          ],
+          [
+            406,
+            164
+          ],
+          [
+            377,
+            164
+          ]
+        ],
+        "text": "cera",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "coordinates": [
+          [
+            449,
+            136
+          ],
+          [
+            484,
+            136
+          ],
+          [
+            484,
+            147
+          ],
+          [
+            449,
+            147
+          ]
+        ],
+        "text": "sweet",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "coordinates": [
+          [
+            486,
+            137
+          ],
+          [
+            515,
+            137
+          ],
+          [
+            515,
+            149
+          ],
+          [
+            486,
+            149
+          ]
+        ],
+        "text": "home",
+        "script_language": "ENGLISH"
+      },
+      "polygon_9": {
+        "coordinates": [
+          [
+            626,
+            262
+          ],
+          [
+            657,
+            262
+          ],
+          [
+            657,
+            277
+          ],
+          [
+            626,
+            277
+          ]
+        ],
+        "text": "cera",
+        "script_language": "ENGLISH"
+      },
+      "polygon_10": {
+        "coordinates": [
+          [
+            438,
+            309
+          ],
+          [
+            454,
+            309
+          ],
+          [
+            454,
+            325
+          ],
+          [
+            438,
+            325
+          ]
+        ],
+        "text": "a",
+        "script_language": "ENGLISH"
+      },
+      "polygon_11": {
+        "coordinates": [
+          [
+            456,
+            309
+          ],
+          [
+            531,
+            309
+          ],
+          [
+            531,
+            326
+          ],
+          [
+            456,
+            326
+          ]
+        ],
+        "text": "luxurious",
+        "script_language": "ENGLISH"
+      },
+      "polygon_12": {
+        "coordinates": [
+          [
+            456,
+            326
+          ],
+          [
+            516,
+            326
+          ],
+          [
+            516,
+            343
+          ],
+          [
+            456,
+            343
+          ]
+        ],
+        "text": "escape",
+        "script_language": "ENGLISH"
+      },
+      "polygon_13": {
+        "coordinates": [
+          [
+            365,
+            353
+          ],
+          [
+            394,
+            353
+          ],
+          [
+            394,
+            362
+          ],
+          [
+            365,
+            362
+          ]
+        ],
+        "text": "cera",
+        "script_language": "ENGLISH"
+      },
+      "polygon_14": {
+        "coordinates": [
+          [
+            452,
+            360
+          ],
+          [
+            480,
+            360
+          ],
+          [
+            480,
+            369
+          ],
+          [
+            452,
+            369
+          ]
+        ],
+        "text": "kohler",
+        "script_language": "ENGLISH"
+      },
+      "polygon_15": {
+        "coordinates": [
+          [
+            481,
+            360
+          ],
+          [
+            518,
+            360
+          ],
+          [
+            518,
+            369
+          ],
+          [
+            481,
+            369
+          ]
+        ],
+        "text": "shower",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "",
+    "image_name": "image2",
+    "split": "train",
+    "folderName": "dataset"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "dataset_image_8": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [
+            177,
+            333
+          ],
+          [
+            494,
+            333
+          ],
+          [
+            494,
+            407
+          ],
+          [
+            177,
+            407
+          ]
+        ],
+        "text": "zolly",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "coordinates": [
+          [
+            501,
+            357
+          ],
+          [
+            637,
+            357
+          ],
+          [
+            637,
+            408
+          ],
+          [
+            501,
+            408
+          ]
+        ],
+        "text": "unisex",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "coordinates": [
+          [
+            644,
+            356
+          ],
+          [
+            763,
+            356
+          ],
+          [
+            763,
+            407
+          ],
+          [
+            644,
+            407
+          ]
+        ],
+        "text": "salon",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "coordinates": [
+          [
+            827,
+            324
+          ],
+          [
+            1104,
+            324
+          ],
+          [
+            1104,
+            403
+          ],
+          [
+            827,
+            403
+          ]
+        ],
+        "text": "raymond",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "",
+    "image_name": "image8",
+    "split": "train",
+    "folderName": "dataset"
+  }
+}
