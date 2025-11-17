@@ -1,0 +1,34 @@
+{
+  "image24.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "libert",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "liberty",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "exclusive",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "liberty",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "showroom",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "mans",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image24.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

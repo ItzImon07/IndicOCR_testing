@@ -1,0 +1,42 @@
+{
+  "image33.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "down",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "the",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "lane",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "relive",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "your",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "memories",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "text": "cafe",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "text": "tristro",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image33.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

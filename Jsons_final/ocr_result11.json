@@ -1,0 +1,22 @@
+{
+  "image11.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "dining",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "hall",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "gypsy",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image11.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "image8.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "24925",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "raymond",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "zolly",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "unisex",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "salon",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "the tailor shop",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image8.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

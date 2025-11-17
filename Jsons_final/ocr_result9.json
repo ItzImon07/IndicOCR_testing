@@ -1,0 +1,18 @@
+{
+  "image9.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "kfc",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "shop wine",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image9.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

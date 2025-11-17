@@ -1,0 +1,46 @@
+{
+  "image40.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "saloon",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "super",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "messes",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "fachial",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "die",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "here",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "text": "cutting",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "text": "children",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "text": "&",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image40.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

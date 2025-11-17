@@ -1,0 +1,114 @@
+{
+  "image23.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "waterproofing",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "restoration",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "repair",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "of",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "plumbing",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "&",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "text": "painting",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "text": "works",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "text": "costiera",
+        "script_language": "ENGLISH"
+      },
+      "polygon_9": {
+        "text": "lodha",
+        "script_language": "ENGLISH"
+      },
+      "polygon_10": {
+        "text": "rehab",
+        "script_language": "ENGLISH"
+      },
+      "polygon_11": {
+        "text": "ltd",
+        "script_language": "ENGLISH"
+      },
+      "polygon_12": {
+        "text": "consultants",
+        "script_language": "ENGLISH"
+      },
+      "polygon_13": {
+        "text": "pvt",
+        "script_language": "ENGLISH"
+      },
+      "polygon_14": {
+        "text": "rehab",
+        "script_language": "ENGLISH"
+      },
+      "polygon_15": {
+        "text": "rajhanchindarkar@yahoo",
+        "script_language": "ENGLISH"
+      },
+      "polygon_16": {
+        "text": "co.in",
+        "script_language": "ENGLISH"
+      },
+      "polygon_17": {
+        "text": "email",
+        "script_language": "ENGLISH"
+      },
+      "polygon_18": {
+        "text": "conference",
+        "script_language": "ENGLISH"
+      },
+      "polygon_19": {
+        "text": "tell",
+        "script_language": "ENGLISH"
+      },
+      "polygon_20": {
+        "text": "the",
+        "script_language": "ENGLISH"
+      },
+      "polygon_21": {
+        "text": "time",
+        "script_language": "ENGLISH"
+      },
+      "polygon_22": {
+        "text": "will",
+        "script_language": "ENGLISH"
+      },
+      "polygon_23": {
+        "text": "painterior",
+        "script_language": "ENGLISH"
+      },
+      "polygon_24": {
+        "text": "specialists",
+        "script_language": "ENGLISH"
+      },
+      "polygon_25": {
+        "text": "contractors",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image23.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

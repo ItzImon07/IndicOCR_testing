@@ -1,0 +1,34 @@
+{
+  "image3.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "soni",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "n",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "navichandra",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "sha",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "ntilal",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "jwellers",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image3.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

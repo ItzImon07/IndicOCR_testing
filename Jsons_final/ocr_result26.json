@@ -1,0 +1,18 @@
+{
+  "image26.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "shop",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "the",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image26.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

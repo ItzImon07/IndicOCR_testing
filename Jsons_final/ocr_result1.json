@@ -1,0 +1,46 @@
+{
+  "image1.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "svc",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "co overative",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "bank",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "ltd",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "formerly",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "the shamrao",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "text": "vithal",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "text": "co overative",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "text": "bank ltd",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image1.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

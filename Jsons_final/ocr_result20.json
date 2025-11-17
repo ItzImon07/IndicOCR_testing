@@ -1,0 +1,26 @@
+{
+  "image20.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "manyavar",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "mohey",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "मान्यवर",
+        "script_language": "HINDI"
+      },
+      "polygon_3": {
+        "text": "मोहे",
+        "script_language": "HINDI"
+      }
+    },
+    "url": "NA",
+    "image_name": "image20.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

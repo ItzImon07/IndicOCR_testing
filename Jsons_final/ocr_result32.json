@@ -1,0 +1,22 @@
+{
+  "image32.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "fetomat",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "wellness",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "pregnancy",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image32.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

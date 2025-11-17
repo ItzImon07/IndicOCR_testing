@@ -1,0 +1,58 @@
+{
+  "image22.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "pgim",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "india mutual fund",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "sips",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "make",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "investing",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "a",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "text": "habit",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "text": "goals with",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "text": "financial",
+        "script_language": "ENGLISH"
+      },
+      "polygon_9": {
+        "text": "advisor",
+        "script_language": "ENGLISH"
+      },
+      "polygon_10": {
+        "text": "sugar",
+        "script_language": "ENGLISH"
+      },
+      "polygon_11": {
+        "text": "brown",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image22.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image29.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "vio",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "sweets",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "pvt",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "ltd",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image29.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

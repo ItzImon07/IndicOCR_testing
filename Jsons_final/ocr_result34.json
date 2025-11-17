@@ -1,0 +1,30 @@
+{
+  "image34.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "dcyards.com",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "dine",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "theyards",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "forestcity",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "dcyards.com",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image34.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

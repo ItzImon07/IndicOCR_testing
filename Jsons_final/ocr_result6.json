@@ -1,0 +1,38 @@
+{
+  "image6.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "bhikhaaram",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "chandmal",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "namkins pvt",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "ltd",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "mithal",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "chandmal",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "text": "bhikhaaram",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image6.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image37.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "पतासी",
+        "script_language": "HINDI"
+      },
+      "polygon_1": {
+        "text": "सोनू",
+        "script_language": "HINDI"
+      },
+      "polygon_2": {
+        "text": "चाट",
+        "script_language": "HINDI"
+      },
+      "polygon_3": {
+        "text": "भण्डार",
+        "script_language": "HINDI"
+      }
+    },
+    "url": "NA",
+    "image_name": "image37.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

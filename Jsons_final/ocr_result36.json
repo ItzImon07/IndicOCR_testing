@@ -1,0 +1,54 @@
+{
+  "image36.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "राजपुरोहित",
+        "script_language": "HINDI"
+      },
+      "polygon_1": {
+        "text": "अनमोल",
+        "script_language": "HINDI"
+      },
+      "polygon_2": {
+        "text": "मेडिकल",
+        "script_language": "HINDI"
+      },
+      "polygon_3": {
+        "text": "सभी",
+        "script_language": "HINDI"
+      },
+      "polygon_4": {
+        "text": "की",
+        "script_language": "HINDI"
+      },
+      "polygon_5": {
+        "text": "दवाईयाँ",
+        "script_language": "HINDI"
+      },
+      "polygon_6": {
+        "text": "प्रकार",
+        "script_language": "HINDI"
+      },
+      "polygon_7": {
+        "text": "उचित",
+        "script_language": "HINDI"
+      },
+      "polygon_8": {
+        "text": "उपलब्ध",
+        "script_language": "HINDI"
+      },
+      "polygon_9": {
+        "text": "पर",
+        "script_language": "HINDI"
+      },
+      "polygon_10": {
+        "text": "मूल्य",
+        "script_language": "HINDI"
+      }
+    },
+    "url": "NA",
+    "image_name": "image36.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

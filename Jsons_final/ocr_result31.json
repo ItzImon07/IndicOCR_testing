@@ -1,0 +1,38 @@
+{
+  "image31.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "chennai",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "pure",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "veg",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "restaurant",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "square",
+        "script_language": "ENGLISH"
+      },
+        "polygon_5": {
+          "text": "tm",
+          "script_language": "ENGLISH"
+      },
+        "polygon_6": {
+          "text": "baki",
+          "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image31.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

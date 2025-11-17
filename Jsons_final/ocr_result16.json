@@ -1,0 +1,18 @@
+{
+  "image16.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "पार्सल",
+        "script_language": "HINDI"
+      },
+      "polygon_1": {
+        "text": "डाक",
+        "script_language": "HINDI"
+      }
+    },
+    "url": "NA",
+    "image_name": "image16.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

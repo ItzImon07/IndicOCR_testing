@@ -1,0 +1,30 @@
+{
+  "image10.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "taller",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "now",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "and",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "greener",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "bigger",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image10.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

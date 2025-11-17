@@ -1,0 +1,22 @@
+{
+  "image7.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "agarwal",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "rr",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "jewellers",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image7.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

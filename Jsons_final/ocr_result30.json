@@ -1,0 +1,34 @@
+{
+  "image30.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "ct scan",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "apollo clinic",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "coffee",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "starbucks",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "alliance",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "tata",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image30.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

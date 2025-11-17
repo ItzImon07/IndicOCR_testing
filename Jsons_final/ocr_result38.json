@@ -1,0 +1,66 @@
+{
+  "image38.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "बैंक",
+        "script_language": "HINDI"
+      },
+      "polygon_1": {
+        "text": "आई",
+        "script_language": "HINDI"
+      },
+      "polygon_2": {
+        "text": "सी",
+        "script_language": "HINDI"
+      },
+      "polygon_3": {
+        "text": "आई",
+        "script_language": "HINDI"
+      },
+      "polygon_4": {
+        "text": "आई सी",
+        "script_language": "HINDI"
+      },
+      "polygon_5": {
+        "text": "bank",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "text": "icici",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "text": "del",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "text": "del",
+        "script_language": "ENGLISH"
+      },
+      "polygon_9": {
+        "text": "resolution",
+        "script_language": "ENGLISH"
+      },
+      "polygon_10": {
+        "text": "&",
+        "script_language": "ENGLISH"
+      },
+      "polygon_11": {
+        "text": "needs",
+        "script_language": "ENGLISH"
+      },
+      "polygon_12": {
+        "text": "banking",
+        "script_language": "ENGLISH"
+      },
+      "polygon_13": {
+        "text": "for",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image38.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

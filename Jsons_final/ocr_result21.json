@@ -1,0 +1,50 @@
+{
+  "image21.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "mothercare",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "lesha",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "925",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "silver",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "must have",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "sterling",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "text": "silver",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "text": "must have",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "text": "925",
+        "script_language": "ENGLISH"
+      },
+      "polygon_9": {
+        "text": "silver",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image21.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

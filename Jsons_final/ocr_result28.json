@@ -1,0 +1,46 @@
+{
+  "image28.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "gem",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "art",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "kashmir",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "emporium",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "rts",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "shop",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "text": "no 3",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "text": "shop",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "text": "no 32",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image28.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

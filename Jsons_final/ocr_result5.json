@@ -1,0 +1,70 @@
+{
+  "image5.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "shree",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "siddhivinayak",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "aashirvaad",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "&",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "kirana",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "atta",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "text": "with",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "text": "multigrains",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "text": "general",
+        "script_language": "ENGLISH"
+      },
+      "polygon_9": {
+        "text": "stores",
+        "script_language": "ENGLISH"
+      },
+      "polygon_10": {
+        "text": "the",
+        "script_language": "ENGLISH"
+      },
+      "polygon_11": {
+        "text": "high",
+        "script_language": "ENGLISH"
+      },
+      "polygon_12": {
+        "text": "fibre",
+        "script_language": "ENGLISH"
+      },
+      "polygon_13": {
+        "text": "atta",
+        "script_language": "ENGLISH"
+      },
+      "polygon_14": {
+        "text": "mob 987914491",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image5.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "image25.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "jio",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "digita",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "life",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "iphone 8",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "the",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "on",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "text": "worlds",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "text": "larg",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "text": "est",
+        "script_language": "ENGLISH"
+      },
+      "polygon_9": {
+        "text": "data",
+        "script_language": "ENGLISH"
+      },
+      "polygon_10": {
+        "text": "network",
+        "script_language": "ENGLISH"
+      },
+      "polygon_11": {
+        "text": "buyback",
+        "script_language": "ENGLISH"
+      },
+      "polygon_12": {
+        "text": "70%",
+        "script_language": "ENGLISH"
+      },
+      "polygon_13": {
+        "text": "get",
+        "script_language": "ENGLISH"
+      },
+      "polygon_14": {
+        "text": "jio",
+        "script_language": "ENGLISH"
+      },
+      "polygon_15": {
+        "text": "jio",
+        "script_language": "ENGLISH"
+      },
+      "polygon_16": {
+        "text": "store",
+        "script_language": "ENGLISH"
+      },
+      "polygon_17": {
+        "text": "digital",
+        "script_language": "ENGLISH"
+      },
+      "polygon_18": {
+        "text": "reliance",
+        "script_language": "ENGLISH"
+      },
+      "polygon_19": {
+        "text": "amazon in",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image25.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

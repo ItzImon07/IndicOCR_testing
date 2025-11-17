@@ -1,0 +1,26 @@
+{
+  "image2.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "cera",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "cera style gallery",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "kohler",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "senator cera",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image2.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

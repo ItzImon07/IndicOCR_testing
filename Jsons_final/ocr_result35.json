@@ -1,0 +1,70 @@
+{
+  "image35.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "bakers",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "neat",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "a continental",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "hub",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "with",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "fresh",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "text": "bakers",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "text": "nest",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "text": "bakers",
+        "script_language": "ENGLISH"
+      },
+      "polygon_9": {
+        "text": "bakes",
+        "script_language": "ENGLISH"
+      },
+      "polygon_10": {
+        "text": "fresh",
+        "script_language": "ENGLISH"
+      },
+      "polygon_11": {
+        "text": "with",
+        "script_language": "ENGLISH"
+      },
+      "polygon_12": {
+        "text": "hub",
+        "script_language": "ENGLISH"
+      },
+      "polygon_13": {
+        "text": "continental",
+        "script_language": "ENGLISH"
+      },
+      "polygon_14": {
+        "text": "a",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image35.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

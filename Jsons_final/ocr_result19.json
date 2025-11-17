@@ -1,0 +1,30 @@
+{
+  "image19.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "joshi",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "swati",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "dr.",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "uapgcc",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "bds mds",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image19.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

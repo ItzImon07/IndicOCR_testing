@@ -1,0 +1,50 @@
+{
+  "image39.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "पुलिस",
+        "script_language": "HINDI"
+      },
+      "polygon_1": {
+        "text": "कमिश्नरेट",
+        "script_language": "HINDI"
+      },
+      "polygon_2": {
+        "text": "यातावात् पुलिस जयपुर",
+        "script_language": "HINDI"
+      },
+      "polygon_3": {
+        "text": "mojika",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "ultima",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "www",
+        "script_language": "ENGLISH"
+      },
+      "polygon_6": {
+        "text": "mojikagroup",
+        "script_language": "ENGLISH"
+      },
+      "polygon_7": {
+        "text": "call",
+        "script_language": "ENGLISH"
+      },
+      "polygon_8": {
+        "text": "enter 8769578888",
+        "script_language": "ENGLISH"
+      },
+      "polygon_9": {
+        "text": "com",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image39.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}

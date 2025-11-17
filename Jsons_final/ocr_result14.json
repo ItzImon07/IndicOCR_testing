@@ -1,0 +1,34 @@
+{
+  "image14.jpg": {
+    "annotations": {
+      "polygon_0": {
+        "text": "toh",
+        "script_language": "ENGLISH"
+      },
+      "polygon_1": {
+        "text": "yeh",
+        "script_language": "ENGLISH"
+      },
+      "polygon_2": {
+        "text": "nahi",
+        "script_language": "ENGLISH"
+      },
+      "polygon_3": {
+        "text": "lux cozi",
+        "script_language": "ENGLISH"
+      },
+      "polygon_4": {
+        "text": "nahi",
+        "script_language": "ENGLISH"
+      },
+      "polygon_5": {
+        "text": "kuch",
+        "script_language": "ENGLISH"
+      }
+    },
+    "url": "NA",
+    "image_name": "image14.jpg",
+    "split": "NA",
+    "folderName": "NA"
+  }
+}
