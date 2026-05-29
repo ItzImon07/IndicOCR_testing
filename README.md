@@ -2,6 +2,8 @@
 
 A testing and evaluation repository for OCR-based text identification across English and Hindi scripts, developed under the guidance of **Dr. Anand Mishra**, Department of Computer Science & Engineering, IIT Jodhpur.
 
+The Actual Repo link to the IndicPhoto OCR developed by Anand mishra and other teamates is given [here]([https://www.google.com](https://github.com/Bhashini-IITJ/IndicPhotoOCR))
+
 ---
 
 ## Overview
