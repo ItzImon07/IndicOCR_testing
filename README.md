@@ -18,7 +18,10 @@ Repository: https://github.com/Bhashini-IITJ/IndicPhotoOCR
 
 ## Repository Structure
 
-text IndicOCR_testing-master/ ├── DC_Images/ │   └── Images/              # Input images used for OCR evaluation │ ├── DC_jsons/ │   └── Jsons/               # Ground-truth annotations │                             # - Polygon coordinates │                             # - Text transcripts │                             # - Language labels │ └── Jsons_final/             # OCR-generated output results 
+text IndicOCR_testing-master/ 
+├── DC_Images/ │   └── Images/              # Input images used for OCR evaluation │ 
+├── DC_jsons/ │   └── Jsons/               # Ground-truth annotations │                             # - Polygon coordinates │                             # - Text transcripts │                             # - Language labels 
+│ └── Jsons_final/             # OCR-generated output results 
 
 ## Dataset Description
 
